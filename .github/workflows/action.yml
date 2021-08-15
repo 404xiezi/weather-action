@@ -24,7 +24,6 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: 北京天气预报 (${{env.REPORT_DATE}})
           body: file://result.html
-          attachments: file://result.html
           to: xiexyzxiexz@qq.com
           from: GitHub Actions
           content_type: text/html
