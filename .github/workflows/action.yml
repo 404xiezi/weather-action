@@ -26,4 +26,4 @@ jobs:
           body: file://Beijing.png
           to: xiexyzxiexz@qq.com
           from: GitHub Actions
-          content_type: text/html
+          content_type: image/png
