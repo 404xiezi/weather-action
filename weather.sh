@@ -1,3 +1,3 @@
 #!/bin/sh
 
-wget wttr.in/Beijing
+wget wttr.in/Beijing /beijing.html
